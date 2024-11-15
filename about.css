@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: rgb(77, 76, 76);
+} 
+
+.food {
+    width: 300px;
+    border: 5px purple dashed;
+    
+}
+
+.school {
+    width: 200px;
+    border: 4px rgb(225, 163, 163) solid;
+}
+
+.movie-character {
+    width: 100px;
+    border: 2px rgb(37, 84, 37) dotted;
+}
+
+#heading{
+    background-color: rgb(121, 91, 35);
+}
+
+#about-food {
+    background-color: lightgrey;
+}
+
+#about-school {
+    background-image: url(./image/backgroundimage1\).jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
